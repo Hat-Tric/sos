@@ -2,6 +2,7 @@
 Joe Reiss's Spoiler Free Opinion Summary - Raw Data
 
 For posterity, the data from Joe Reiss's wonderful Spoiler Free Opinion Summary Data
+https://www.joereiss.net/
 
 Manually scraped all ratings using this link on October 19th 2026
 
