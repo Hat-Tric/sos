@@ -1,0 +1,695 @@
+Series,Episode Number,Season,Episode Name,Votes,Median,Standard Deviation,Average
+TOS,S01E01,1,The Man Trap,348,6.9,2.1,6.4
+TOS,S01E02,1,Charlie X,354,7.5,2.1,7.2
+TOS,S01E03,1,Where No Man Has Gone Before,366,8.5,1.6,8.2
+TOS,S01E04,1,The Naked Time,346,8.0,1.8,7.7
+TOS,S01E05,1,The Enemy Within,332,8.0,1.6,7.4
+TOS,S01E06,1,Mudd's Women,343,6.0,2.4,5.9
+TOS,S01E07,1,What Are Little Girls Made Of?,319,7.0,1.9,6.9
+TOS,S01E08,1,Miri,346,6.0,2.3,5.9
+TOS,S01E09,1,Dagger of the Mind,322,7.5,1.9,7.1
+TOS,S01E10,1,The Corbomite Maneuver,347,8.0,1.6,7.8
+TOS,S01E11,1,The Menagerie (I),363,9.0,1.6,8.5
+TOS,S01E12,1,The Menagerie (II),363,9.0,1.6,8.4
+TOS,S01E13,1,The Conscience of the King,323,8.0,1.8,7.4
+TOS,S01E14,1,Balance of Terror,375,9.5,1.2,9.2
+TOS,S01E15,1,Shore Leave,335,8.0,1.8,7.7
+TOS,S01E16,1,The Galileo Seven,336,8.0,1.7,7.7
+TOS,S01E17,1,The Squire of Gothos,344,8.0,1.7,7.8
+TOS,S01E18,1,Arena,345,8.0,1.7,8.0
+TOS,S01E19,1,Tomorrow Is Yesterday,322,8.0,1.6,7.7
+TOS,S01E20,1,Court Martial,334,8.0,1.7,7.7
+TOS,S01E21,1,The Return of the Archons,322,6.5,2.7,5.9
+TOS,S01E22,1,Space Seed,383,9.0,1.2,8.9
+TOS,S01E23,1,A Taste of Armageddon,331,8.0,1.8,7.8
+TOS,S01E24,1,This Side of Paradise,313,8.0,1.9,7.4
+TOS,S01E25,1,The Devil in the Dark,353,9.0,1.4,8.7
+TOS,S01E26,1,Errand of Mercy,332,9.0,1.6,8.5
+TOS,S01E27,1,The Alternative Factor,293,4.5,2.6,4.3
+TOS,S01E28,1,The City on the Edge of Forever,415,10.0,0.8,9.6
+TOS,S01E29,1,Operation: Annihilate!,304,7.5,1.8,7.2
+TOS,S02E01,2,Amok Time,367,9.5,1.3,9.0
+TOS,S02E02,2,Who Mourns for Adonais?,317,7.0,2.1,6.8
+TOS,S02E03,2,The Changeling,304,8.0,1.7,7.6
+TOS,S02E04,2,"Mirror, Mirror",362,9.5,1.1,9.2
+TOS,S02E05,2,The Apple,306,6.0,2.4,5.7
+TOS,S02E06,2,The Doomsday Machine,352,9.6,1.2,9.1
+TOS,S02E07,2,Catspaw,295,6.0,2.4,5.3
+TOS,S02E08,2,"I, Mudd",329,8.0,2.2,7.7
+TOS,S02E09,2,Metamorphosis,297,7.0,1.9,6.9
+TOS,S02E10,2,Journey to Babel,336,9.1,1.3,8.9
+TOS,S02E11,2,Friday's Child,295,7.0,2.0,7.0
+TOS,S02E12,2,The Deadly Years,299,7.0,1.9,6.8
+TOS,S02E13,2,Obsession,289,7.0,1.7,7.2
+TOS,S02E14,2,Wolf in the Fold,319,8.0,1.7,7.7
+TOS,S02E15,2,The Trouble with Tribbles,385,9.9,1.2,9.2
+TOS,S02E16,2,The Gamesters of Triskelion,307,6.9,2.3,6.3
+TOS,S02E17,2,A Piece of the Action,335,9.0,1.8,8.3
+TOS,S02E18,2,The Immunity Syndrome,291,8.0,1.8,7.6
+TOS,S02E19,2,A Private Little War,297,7.0,2.2,6.4
+TOS,S02E20,2,Return to Tomorrow,282,7.0,1.8,6.9
+TOS,S02E21,2,Patterns of Force,305,7.0,2.3,6.6
+TOS,S02E22,2,By Any Other Name,285,7.0,2.0,6.7
+TOS,S02E23,2,The Omega Glory,298,4.0,3.0,4.1
+TOS,S02E24,2,The Ultimate Computer,312,8.0,1.7,8.0
+TOS,S02E25,2,Bread and Circuses,299,7.0,1.9,6.9
+TOS,S02E26,2,Assignment: Earth,306,7.5,2.0,7.2
+TOS,S03E01,3,Spock's Brain,346,2.0,2.8,3.1
+TOS,S03E02,3,The Enterprise Incident,331,9.0,1.4,8.7
+TOS,S03E03,3,The Paradise Syndrome,281,7.0,2.3,6.6
+TOS,S03E04,3,And the Children Shall Lead,307,3.0,2.7,3.2
+TOS,S03E05,3,Is There in Truth No Beauty?,300,7.0,2.2,6.7
+TOS,S03E06,3,Spectre of the Gun,310,7.5,2.5,6.9
+TOS,S03E07,3,Day of the Dove,300,8.0,1.6,7.9
+TOS,S03E08,3,For the World Is Hollow and I Have ...,289,7.0,2.3,6.2
+TOS,S03E09,3,The Tholian Web,315,8.5,1.7,8.3
+TOS,S03E10,3,Plato's Stepchildren,299,5.2,2.7,5.2
+TOS,S03E11,3,Wink of an Eye,286,6.0,2.8,5.4
+TOS,S03E12,3,The Empath,297,7.5,2.7,6.9
+TOS,S03E13,3,Elaan of Troyius,296,7.0,2.3,6.4
+TOS,S03E14,3,Whom Gods Destroy,279,7.0,2.2,7.0
+TOS,S03E15,3,Let That Be Your Last Battlefield,293,6.0,3.0,5.6
+TOS,S03E16,3,The Mark of Gideon,279,5.4,2.6,5.1
+TOS,S03E17,3,That Which Survives,271,5.0,2.7,4.8
+TOS,S03E18,3,The Lights of Zetar,292,6.0,2.4,6.0
+TOS,S03E19,3,Requiem for Methuselah,292,7.5,2.2,7.4
+TOS,S03E20,3,The Way to Eden,311,3.0,3.0,3.3
+TOS,S03E21,3,The Cloud Minders,299,6.0,2.6,5.5
+TOS,S03E22,3,The Savage Curtain,286,6.0,2.5,5.7
+TOS,S03E23,3,All Our Yesterdays,303,8.5,1.8,8.2
+TOS,S03E24,3,Turnabout Intruder,298,7.0,2.4,6.4
+TNG,S01E01,1,Encounter at Farpoint,490,7.0,1.8,6.9
+TNG,S01E02,1,The Naked Now,460,6.5,2.2,6.1
+TNG,S01E03,1,Code of Honor,404,4.5,2.4,4.4
+TNG,S01E04,1,The Last Outpost,401,6.0,2.2,5.5
+TNG,S01E05,1,Where No One Has Gone Before,413,7.0,1.9,7.1
+TNG,S01E06,1,Lonely Among Us,380,6.0,2.2,6.0
+TNG,S01E07,1,Justice,412,5.0,2.6,4.8
+TNG,S01E08,1,The Battle,398,7.0,1.8,6.8
+TNG,S01E09,1,Hide and Q,427,7.0,2.2,6.4
+TNG,S01E10,1,Haven,385,6.0,2.3,5.4
+TNG,S01E11,1,The Big Goodbye,403,8.0,1.9,7.6
+TNG,S01E12,1,Datalore,416,7.5,1.8,7.3
+TNG,S01E13,1,Angel One,391,5.0,2.4,4.7
+TNG,S01E14,1,11001001,415,7.5,1.8,7.3
+TNG,S01E15,1,Too Short a Season,374,6.0,2.0,5.5
+TNG,S01E16,1,When the Bough Breaks,370,5.0,2.2,4.9
+TNG,S01E17,1,Home Soil,353,6.0,2.2,5.6
+TNG,S01E18,1,Coming of Age,375,7.0,2.0,6.7
+TNG,S01E19,1,Heart of Glory,377,7.2,1.8,7.3
+TNG,S01E20,1,The Arsenal of Freedom,409,7.0,1.8,7.0
+TNG,S01E21,1,Symbiosis,370,6.0,2.0,5.6
+TNG,S01E22,1,Skin of Evil,450,7.0,2.4,6.8
+TNG,S01E23,1,We'll Always Have Paris,401,6.5,2.2,6.3
+TNG,S01E24,1,Conspiracy,415,8.0,1.7,8.1
+TNG,S01E25,1,The Neutral Zone,427,8.0,1.8,7.4
+TNG,S02E01,2,The Child,382,6.0,2.3,5.6
+TNG,S02E02,2,Where Silence Has Lease,374,7.0,2.1,6.4
+TNG,S02E03,2,"Elementary, Dear Data",412,8.0,1.5,8.1
+TNG,S02E04,2,The Outrageous Okona,386,6.0,2.4,5.4
+TNG,S02E05,2,Loud as a Whisper,363,6.7,2.3,6.2
+TNG,S02E06,2,The Schizoid Man,371,7.0,1.8,6.7
+TNG,S02E07,2,Unnatural Selection,345,6.0,2.0,5.8
+TNG,S02E08,2,A Matter of Honor,387,8.7,1.6,8.3
+TNG,S02E09,2,The Measure of a Man,439,9.5,1.1,9.1
+TNG,S02E10,2,The Dauphin,370,6.0,2.2,5.8
+TNG,S02E11,2,Contagion,371,8.0,1.7,7.8
+TNG,S02E12,2,The Royale,414,6.0,2.5,5.4
+TNG,S02E13,2,Time Squared,380,7.5,1.7,7.3
+TNG,S02E14,2,The Icarus Factor,367,6.2,2.2,6.1
+TNG,S02E15,2,Pen Pals,368,6.0,2.2,5.7
+TNG,S02E16,2,Q Who,437,9.5,1.1,9.1
+TNG,S02E17,2,Samaritan Snare,364,7.0,2.1,6.5
+TNG,S02E18,2,Up the Long Ladder,353,6.3,2.5,6.0
+TNG,S02E19,2,Manhunt,364,6.3,2.2,6.0
+TNG,S02E20,2,The Emissary,399,8.0,1.6,8.0
+TNG,S02E21,2,Peak Performance,387,8.0,1.6,7.8
+TNG,S02E22,2,Shades of Gray,399,3.0,2.6,3.4
+TNG,S03E01,3,Evolution,358,7.0,1.9,7.1
+TNG,S03E02,3,The Ensigns of Command,356,7.5,1.8,7.4
+TNG,S03E03,3,The Survivors,362,8.0,1.9,7.6
+TNG,S03E04,3,Who Watches the Watchers,404,8.5,1.6,8.2
+TNG,S03E05,3,The Bonding,348,6.0,2.0,6.1
+TNG,S03E06,3,Booby Trap,381,8.0,1.6,8.0
+TNG,S03E07,3,The Enemy,377,8.5,1.4,8.3
+TNG,S03E08,3,The Price,353,6.0,2.1,5.9
+TNG,S03E09,3,The Vengeance Factor,337,7.0,2.2,6.4
+TNG,S03E10,3,The Defector,407,9.0,1.3,8.8
+TNG,S03E11,3,The Hunted,345,7.5,1.4,7.5
+TNG,S03E12,3,The High Ground,369,8.0,1.8,7.9
+TNG,S03E13,3,Deja Q,417,9.0,1.2,8.9
+TNG,S03E14,3,A Matter of Perspective,364,7.0,2.0,6.6
+TNG,S03E15,3,Yesterday's Enterprise,478,10.0,0.8,9.6
+TNG,S03E16,3,The Offspring,421,9.3,1.3,8.9
+TNG,S03E17,3,Sins of the Father,386,9.0,1.3,8.7
+TNG,S03E18,3,Allegiance,347,7.0,1.6,6.9
+TNG,S03E19,3,Captain's Holiday,367,7.0,1.7,7.0
+TNG,S03E20,3,Tin Man,405,8.0,1.8,7.6
+TNG,S03E21,3,Hollow Pursuits,390,8.0,1.6,8.0
+TNG,S03E22,3,The Most Toys,389,8.0,1.7,7.8
+TNG,S03E23,3,Sarek,421,9.0,1.4,8.7
+TNG,S03E24,3,Menage A Troi,384,7.0,2.0,6.5
+TNG,S03E25,3,Transfigurations,361,7.0,1.8,7.2
+TNG,S03E26,3,The Best of Both Worlds (I),493,10.0,0.7,9.7
+TNG,S04E01,4,The Best of Both Worlds (II),475,10.0,0.8,9.5
+TNG,S04E02,4,Family,409,9.0,1.5,8.6
+TNG,S04E03,4,Brothers,382,8.3,1.4,8.2
+TNG,S04E04,4,Suddenly Human,355,6.8,2.2,6.1
+TNG,S04E05,4,Remember Me,403,9.0,1.6,8.4
+TNG,S04E06,4,Legacy,335,7.0,1.7,6.9
+TNG,S04E07,4,Reunion,362,9.0,1.3,8.7
+TNG,S04E08,4,Future Imperfect,371,8.0,1.6,7.8
+TNG,S04E09,4,Final Mission,357,7.9,1.8,7.3
+TNG,S04E10,4,The Loss,355,6.5,2.4,6.1
+TNG,S04E11,4,Data's Day,374,8.0,1.5,8.0
+TNG,S04E12,4,The Wounded,366,9.0,1.3,8.6
+TNG,S04E13,4,Devil's Due,367,7.0,2.0,6.9
+TNG,S04E14,4,Clues,361,8.0,1.8,7.6
+TNG,S04E15,4,First Contact,374,8.5,1.5,8.4
+TNG,S04E16,4,Galaxy's Child,372,7.0,1.9,6.8
+TNG,S04E17,4,Night Terrors,367,7.2,2.2,7.0
+TNG,S04E18,4,Identity Crisis,335,7.0,1.9,6.9
+TNG,S04E19,4,The Nth Degree,387,8.4,1.5,8.2
+TNG,S04E20,4,Qpid,405,7.5,2.4,7.0
+TNG,S04E21,4,The Drumhead,389,9.0,1.6,8.5
+TNG,S04E22,4,Half a Life,340,7.0,2.0,6.9
+TNG,S04E23,4,The Host,349,7.0,2.1,6.5
+TNG,S04E24,4,The Mind's Eye,363,9.0,1.6,8.4
+TNG,S04E25,4,In Theory,370,7.0,2.0,7.0
+TNG,S04E26,4,Redemption (I),378,9.0,1.3,8.7
+TNG,S05E01,5,Redemption (II),380,8.5,1.6,8.3
+TNG,S05E02,5,Darmok,414,9.0,1.6,8.7
+TNG,S05E03,5,Ensign Ro,395,8.5,1.4,8.3
+TNG,S05E04,5,Silicon Avatar,372,7.8,1.7,7.4
+TNG,S05E05,5,Disaster,363,8.0,1.8,7.5
+TNG,S05E06,5,The Game,384,6.5,2.4,5.9
+TNG,S05E07,5,Unification (I),407,9.0,1.4,8.5
+TNG,S05E08,5,Unification (II),410,8.5,1.5,8.3
+TNG,S05E09,5,A Matter of Time,341,7.5,1.7,7.4
+TNG,S05E10,5,New Ground,341,6.5,2.1,6.2
+TNG,S05E11,5,Hero Worship,366,7.0,2.0,6.7
+TNG,S05E12,5,Violations,345,7.0,2.0,6.8
+TNG,S05E13,5,The Masterpiece Society,350,7.0,2.2,6.2
+TNG,S05E14,5,Conundrum,341,8.2,1.5,8.1
+TNG,S05E15,5,Power Play,329,7.5,1.7,7.4
+TNG,S05E16,5,Ethics,351,7.0,2.0,6.9
+TNG,S05E17,5,The Outcast,343,6.0,2.6,5.8
+TNG,S05E18,5,Cause and Effect,388,9.2,1.2,9.0
+TNG,S05E19,5,The First Duty,385,9.0,1.6,8.4
+TNG,S05E20,5,Cost of Living,324,5.8,2.4,5.5
+TNG,S05E21,5,The Perfect Mate,354,7.5,2.0,7.1
+TNG,S05E22,5,Imaginary Friend,355,5.0,2.3,4.5
+TNG,S05E23,5,I Borg,408,9.0,1.4,8.6
+TNG,S05E24,5,The Next Phase,374,8.5,1.7,8.1
+TNG,S05E25,5,Inner Light,439,10.0,1.3,9.4
+TNG,S05E26,5,Time's Arrow (I),370,8.0,1.5,8.1
+TNG,S06E01,6,Time's Arrow (II),379,7.9,1.8,7.4
+TNG,S06E02,6,Realm of Fear,345,7.0,1.8,6.9
+TNG,S06E03,6,Man of the People,337,5.0,2.3,5.1
+TNG,S06E04,6,Relics,418,9.0,1.4,8.6
+TNG,S06E05,6,Schisms,342,8.0,1.6,7.5
+TNG,S06E06,6,True Q,397,8.0,1.8,7.8
+TNG,S06E07,6,Rascals,389,7.0,2.3,6.3
+TNG,S06E08,6,A Fistful of Datas,391,7.9,1.9,7.4
+TNG,S06E09,6,The Quality of Life,372,7.8,1.8,7.5
+TNG,S06E10,6,Chain of Command (I),401,8.8,1.4,8.5
+TNG,S06E11,6,Chain of Command (II),408,9.3,1.4,9.0
+TNG,S06E12,6,Ship in a Bottle,389,8.5,1.5,8.4
+TNG,S06E13,6,Aquiel,365,5.5,2.2,5.2
+TNG,S06E14,6,Face of the Enemy,396,9.0,1.3,8.8
+TNG,S06E15,6,Tapestry,417,9.3,1.2,9.0
+TNG,S06E16,6,Birthright (I),376,8.0,1.7,7.8
+TNG,S06E17,6,Birthright (II),372,7.0,2.0,6.8
+TNG,S06E18,6,Starship Mine,392,8.2,1.3,8.2
+TNG,S06E19,6,Lessons,392,8.0,1.8,7.7
+TNG,S06E20,6,The Chase,389,8.0,1.5,7.7
+TNG,S06E21,6,Frame of Mind,396,9.0,1.8,8.4
+TNG,S06E22,6,Suspicions,374,6.5,1.9,6.3
+TNG,S06E23,6,Rightful Heir,370,7.8,1.9,7.4
+TNG,S06E24,6,Second Chances,374,8.0,1.4,7.8
+TNG,S06E25,6,Timescape,380,9.0,1.3,8.5
+TNG,S06E26,6,Descent (I),401,8.0,1.7,8.0
+TNG,S07E01,7,Descent (II),471,7.0,2.3,6.4
+TNG,S07E02,7,Liaisons,440,6.0,2.1,5.7
+TNG,S07E03,7,Interface,417,7.0,1.8,6.6
+TNG,S07E04,7,Gambit (I),436,8.0,1.5,7.9
+TNG,S07E05,7,Gambit (II),435,8.0,1.5,8.0
+TNG,S07E06,7,Phantasms,420,8.0,1.8,7.6
+TNG,S07E07,7,Dark Page,434,7.0,2.3,6.5
+TNG,S07E08,7,Attached,441,7.7,1.8,7.4
+TNG,S07E09,7,Force of Nature,427,6.0,2.5,5.5
+TNG,S07E10,7,Inheritance,406,8.0,1.9,7.5
+TNG,S07E11,7,Parallels,482,9.1,1.6,8.9
+TNG,S07E12,7,The Pegasus,474,9.0,1.4,8.7
+TNG,S07E13,7,Homeward,409,7.0,2.1,6.5
+TNG,S07E14,7,Sub Rosa,451,6.0,2.7,5.4
+TNG,S07E15,7,Lower Decks,482,9.0,1.4,8.7
+TNG,S07E16,7,Thine Own Self,440,8.0,1.5,7.8
+TNG,S07E17,7,Masks,459,6.5,2.3,6.2
+TNG,S07E18,7,Eye of the Beholder,412,6.5,2.3,6.0
+TNG,S07E19,7,Genesis,442,7.0,2.6,6.3
+TNG,S07E20,7,Journey's End,445,7.0,2.1,6.7
+TNG,S07E21,7,Firstborn,388,7.2,1.7,7.2
+TNG,S07E22,7,Bloodlines,402,6.5,1.9,6.2
+TNG,S07E23,7,Emergence,396,6.5,2.1,6.1
+TNG,S07E24,7,Preemptive Strike,420,8.7,1.5,8.4
+TNG,S07E25,7,All Good Things...,539,10.0,0.9,9.6
+DS9,S01E01,1,Emissary,656,9.0,1.5,8.7
+DS9,S01E02,1,Past Prologue,539,7.8,1.6,7.5
+DS9,S01E03,1,A Man Alone,544,7.0,1.6,7.0
+DS9,S01E04,1,Babel,561,7.6,1.9,7.5
+DS9,S01E05,1,Captive Pursuit,578,8.0,1.7,8.0
+DS9,S01E06,1,Q-Less,595,7.0,2.1,6.8
+DS9,S01E07,1,Dax,562,8.0,1.9,7.7
+DS9,S01E08,1,The Passenger,532,6.5,2.0,6.3
+DS9,S01E09,1,Move Along Home,579,6.0,2.3,5.9
+DS9,S01E10,1,The Nagus,578,8.0,1.9,7.6
+DS9,S01E11,1,Vortex,526,7.5,1.8,7.5
+DS9,S01E12,1,Battle Lines,550,8.0,1.8,7.8
+DS9,S01E13,1,The Storyteller,574,7.0,2.0,6.4
+DS9,S01E14,1,Progress,561,8.2,1.9,8.0
+DS9,S01E15,1,If Wishes Were Horses,554,7.0,2.2,6.6
+DS9,S01E16,1,The Forsaken,529,7.0,2.1,6.5
+DS9,S01E17,1,Dramatis Personae,537,7.0,1.7,7.0
+DS9,S01E18,1,Duet,655,10.0,1.2,9.5
+DS9,S01E19,1,In the Hands of the Prophets,605,9.0,1.7,8.7
+DS9,S02E01,2,The Homecoming,621,9.0,1.5,8.6
+DS9,S02E02,2,The Circle,621,9.0,1.5,8.7
+DS9,S02E03,2,The Siege,619,8.9,1.6,8.4
+DS9,S02E04,2,Invasive Procedures,574,7.0,1.7,7.0
+DS9,S02E05,2,Cardassians,583,8.2,1.7,8.1
+DS9,S02E06,2,Melora,592,6.0,2.4,5.5
+DS9,S02E07,2,Rules of Acquisition,572,7.5,2.0,7.1
+DS9,S02E08,2,Necessary Evil,646,9.9,1.3,9.2
+DS9,S02E09,2,Second Sight,543,6.5,2.2,6.3
+DS9,S02E10,2,Sanctuary,556,7.0,1.8,6.5
+DS9,S02E11,2,Rivals,562,6.0,2.1,5.9
+DS9,S02E12,2,The Alternate,557,7.0,1.6,6.9
+DS9,S02E13,2,Armageddon Game,563,8.0,1.5,8.0
+DS9,S02E14,2,Whispers,602,9.0,1.5,8.8
+DS9,S02E15,2,Paradise,573,7.5,2.0,7.1
+DS9,S02E16,2,Shadowplay,547,7.6,1.5,7.4
+DS9,S02E17,2,Playing God,564,7.0,1.8,6.8
+DS9,S02E18,2,Profit and Loss,542,7.0,2.0,6.5
+DS9,S02E19,2,Blood Oath,604,9.0,1.7,8.4
+DS9,S02E20,2,The Maquis (I),594,9.0,1.5,8.6
+DS9,S02E21,2,The Maquis (II),597,9.0,1.6,8.5
+DS9,S02E22,2,The Wire,590,9.0,1.4,8.8
+DS9,S02E23,2,Crossover,625,9.5,1.3,9.0
+DS9,S02E24,2,The Collaborator,548,8.5,1.6,8.3
+DS9,S02E25,2,Tribunal,549,8.0,1.5,7.7
+DS9,S02E26,2,The Jem'Hadar,608,9.0,1.3,8.8
+DS9,S03E01,3,The Search (I),643,8.5,1.3,8.4
+DS9,S03E02,3,The Search (II),645,7.5,1.9,7.2
+DS9,S03E03,3,The House of Quark,629,8.0,1.6,8.0
+DS9,S03E04,3,Equilibrium,577,7.5,1.9,7.4
+DS9,S03E05,3,Second Skin,594,8.5,1.5,8.3
+DS9,S03E06,3,The Abandoned,569,7.0,1.8,7.1
+DS9,S03E07,3,Civil Defense,615,8.7,1.4,8.4
+DS9,S03E08,3,Meridian,598,4.0,2.6,3.9
+DS9,S03E09,3,Defiant,636,8.5,1.5,8.4
+DS9,S03E10,3,Fascination,595,6.0,2.4,5.5
+DS9,S03E11,3,Past Tense (I),644,9.0,1.4,8.6
+DS9,S03E12,3,Past Tense (II),653,8.8,1.6,8.4
+DS9,S03E13,3,Life Support,604,6.8,2.4,6.2
+DS9,S03E14,3,Heart of Stone,632,7.5,2.0,7.1
+DS9,S03E15,3,Destiny,582,8.5,1.6,8.2
+DS9,S03E16,3,Prophet Motive,589,7.0,2.0,6.8
+DS9,S03E17,3,Visionary,622,8.9,1.4,8.5
+DS9,S03E18,3,Distant Voices,589,7.0,1.9,6.9
+DS9,S03E19,3,Through the Looking Glass,636,8.5,1.6,8.2
+DS9,S03E20,3,Improbable Cause,666,10.0,1.1,9.3
+DS9,S03E21,3,The Die Is Cast,688,10.0,1.1,9.4
+DS9,S03E22,3,Explorers,626,8.0,1.7,7.9
+DS9,S03E23,3,Family Business,592,7.0,2.0,6.6
+DS9,S03E24,3,Shakaar,577,8.0,1.8,7.8
+DS9,S03E25,3,Facets,577,7.5,1.6,7.2
+DS9,S03E26,3,The Adversary,627,9.0,1.3,8.7
+DS9,S04E01,4,The Way of the Warrior,869,9.5,1.3,9.0
+DS9,S04E02,4,The Visitor,855,10.0,1.4,9.4
+DS9,S04E03,4,Hippocratic Oath,753,8.0,1.4,7.9
+DS9,S04E04,4,Indiscretion,701,8.0,1.6,7.6
+DS9,S04E05,4,Rejoined,746,8.0,2.0,7.9
+DS9,S04E06,4,Starship Down,788,8.5,1.6,8.2
+DS9,S04E07,4,Little Green Men,727,8.0,1.6,7.6
+DS9,S04E08,4,The Sword of Kahless,729,7.5,2.0,7.4
+DS9,S04E09,4,Our Man Bashir,766,9.0,1.4,8.6
+DS9,S04E10,4,Homefront,714,9.0,1.3,8.8
+DS9,S04E11,4,Paradise Lost,727,8.8,1.5,8.4
+DS9,S04E12,4,Crossfire,671,7.8,2.0,7.4
+DS9,S04E13,4,Return to Grace,661,8.3,1.6,8.1
+DS9,S04E14,4,Sons of Mogh,698,8.0,1.8,7.6
+DS9,S04E15,4,Bar Association,694,7.0,2.1,6.8
+DS9,S04E16,4,Accession,689,8.8,1.8,8.3
+DS9,S04E17,4,Rules of Engagement,664,7.5,1.9,7.0
+DS9,S04E18,4,Hard Time,680,9.5,1.4,9.1
+DS9,S04E19,4,Shattered Mirror,677,8.5,1.7,8.3
+DS9,S04E20,4,The Muse,649,6.0,2.3,5.6
+DS9,S04E21,4,For the Cause,655,8.8,1.3,8.5
+DS9,S04E22,4,To the Death,633,8.3,1.6,8.1
+DS9,S04E23,4,The Quickening,661,9.0,1.4,8.7
+DS9,S04E24,4,Body Parts,612,7.5,1.8,7.4
+DS9,S04E25,4,Broken Link,673,9.0,1.4,8.5
+DS9,S05E01,5,Apocalypse Rising,681,8.5,1.4,8.2
+DS9,S05E02,5,The Ship,707,9.0,1.5,8.7
+DS9,S05E03,5,Looking for Par'Mach in All the ...,686,7.9,2.6,7.1
+DS9,S05E04,5,Nor the Battle to the Strong,675,9.0,1.8,8.4
+DS9,S05E05,5,The Assignment,652,8.0,1.5,8.0
+DS9,S05E06,5,Trials and Tribble-ations,789,10.0,1.1,9.4
+DS9,S05E07,5,Let He Who Is Without Sin...,664,4.5,2.7,4.2
+DS9,S05E08,5,Things Past,647,8.0,1.6,8.1
+DS9,S05E09,5,The Ascent,619,7.5,1.6,7.3
+DS9,S05E10,5,Rapture,611,9.5,1.6,8.8
+DS9,S05E11,5,The Darkness and the Light,590,8.5,1.7,8.2
+DS9,S05E12,5,The Begotten,586,8.1,1.6,8.1
+DS9,S05E13,5,For the Uniform,612,9.0,1.5,8.8
+DS9,S05E14,5,In Purgatory's Shadow,621,9.7,1.1,9.3
+DS9,S05E15,5,By Inferno's Light,603,9.2,1.3,9.0
+DS9,S05E16,5,"Dr. Bashir, I Presume",602,8.5,1.5,8.2
+DS9,S05E17,5,A Simple Investigation,539,7.0,1.9,7.0
+DS9,S05E18,5,Business as Usual,532,8.0,1.6,7.8
+DS9,S05E19,5,Ties of Blood and Water,539,8.0,1.7,7.8
+DS9,S05E20,5,Ferengi Love Songs,529,5.1,2.4,5.1
+DS9,S05E21,5,Soldiers of the Empire,544,8.5,1.7,8.1
+DS9,S05E22,5,Children of Time,599,9.5,1.5,9.0
+DS9,S05E23,5,Blaze of Glory,532,9.0,1.4,8.6
+DS9,S05E24,5,Empok Nor,555,8.1,1.7,8.0
+DS9,S05E25,5,In the Cards,518,9.0,1.7,8.5
+DS9,S05E26,5,Call to Arms,563,9.9,1.3,9.3
+DS9,S06E01,6,A Time to Stand,594,9.1,1.4,9.0
+DS9,S06E02,6,Rocks and Shoals,592,9.9,1.3,9.3
+DS9,S06E03,6,Sons and Daughters,560,7.0,1.9,6.8
+DS9,S06E04,6,Behind the Lines,558,9.0,1.6,8.8
+DS9,S06E05,6,Favor the Bold,571,9.0,1.5,8.7
+DS9,S06E06,6,Sacrifice of Angels,589,9.3,1.7,8.8
+DS9,S06E07,6,You Are Cordially Invited,541,8.0,1.9,7.5
+DS9,S06E08,6,Resurrection,526,6.0,2.4,5.7
+DS9,S06E09,6,Statistical Probabilities,523,9.0,1.6,8.5
+DS9,S06E10,6,The Magnificent Ferengi,502,8.0,2.4,7.5
+DS9,S06E11,6,Waltz,513,9.0,1.7,8.6
+DS9,S06E12,6,Who Mourns for Morn?,500,7.5,1.9,7.1
+DS9,S06E13,6,Far Beyond the Stars,523,10.0,1.7,9.2
+DS9,S06E14,6,One Little Ship,498,8.0,2.0,7.8
+DS9,S06E15,6,Honor Among Thieves,482,8.5,1.8,8.1
+DS9,S06E16,6,Change of Heart,463,8.0,2.0,7.6
+DS9,S06E17,6,Wrongs Darker Than Death or Night,455,7.5,2.5,6.9
+DS9,S06E18,6,Inquisition,481,9.0,1.6,8.7
+DS9,S06E19,6,In the Pale Moonlight,522,10.0,1.1,9.6
+DS9,S06E20,6,His Way,476,8.0,2.5,7.5
+DS9,S06E21,6,The Reckoning,443,8.5,1.8,8.2
+DS9,S06E22,6,Valiant,431,8.0,2.2,7.4
+DS9,S06E23,6,Profit and Lace,432,4.0,3.0,3.9
+DS9,S06E24,6,Time's Orphan,421,7.0,2.3,6.5
+DS9,S06E25,6,The Sound of Her Voice,427,7.6,1.9,7.2
+DS9,S06E26,6,Tears of the Prophets,443,9.0,1.6,8.6
+DS9,S07E01,7,Image in the Sand,456,8.8,1.5,8.4
+DS9,S07E02,7,Shadows and Symbols,460,9.2,1.4,8.9
+DS9,S07E03,7,Afterimage,446,8.0,2.2,7.8
+DS9,S07E04,7,Take Me Out to the Holosuite,461,8.5,2.2,8.0
+DS9,S07E05,7,Chrysalis,436,7.7,1.9,7.4
+DS9,S07E06,7,"Treachery, Faith, and the Great ...",448,9.0,1.6,8.8
+DS9,S07E07,7,Once More Unto the Breach,429,8.5,1.9,8.3
+DS9,S07E08,7,The Siege of AR-558,453,10.0,1.5,9.2
+DS9,S07E09,7,Covenant,403,8.0,2.2,7.7
+DS9,S07E10,7,It's Only a Paper Moon,391,8.8,1.6,8.4
+DS9,S07E11,7,Prodigal Daughter,377,7.5,2.1,7.1
+DS9,S07E12,7,The Emperor's New Cloak,376,7.0,2.9,6.3
+DS9,S07E13,7,Field of Fire,384,7.7,2.1,7.2
+DS9,S07E14,7,Chimera,415,9.5,1.5,9.0
+DS9,S07E15,7,"Badda-Bing, Badda-Bang",392,8.0,2.1,7.6
+DS9,S07E16,7,Inter Arma Enim Silent Leges,391,9.5,1.4,9.1
+DS9,S07E17,7,Penumbra,381,8.6,1.4,8.4
+DS9,S07E18,7,'Til Death Do Us Part,375,9.0,1.3,8.7
+DS9,S07E19,7,Strange Bedfellows,376,9.0,1.3,8.9
+DS9,S07E20,7,The Changing Face of Evil,378,9.7,1.3,9.2
+DS9,S07E21,7,When It Rains...,359,9.0,1.2,8.7
+DS9,S07E22,7,Tacking into the Wind,369,10.0,1.2,9.4
+DS9,S07E23,7,Extreme Measures,360,7.0,2.0,6.8
+DS9,S07E24,7,The Dogs of War,354,9.0,1.5,8.6
+DS9,S07E25,7,What You Leave Behind,381,9.5,1.9,8.8
+VOY,S01E01,1,Caretaker,869,8.5,1.6,8.3
+VOY,S01E02,1,Parallax,757,7.0,1.9,6.9
+VOY,S01E03,1,Time and Again,741,7.0,2.0,7.0
+VOY,S01E04,1,Phage,748,7.4,1.8,7.2
+VOY,S01E05,1,The Cloud,717,7.0,2.0,6.7
+VOY,S01E06,1,Eye of the Needle,774,8.9,1.7,8.4
+VOY,S01E07,1,Ex Post Facto,714,6.0,2.5,5.5
+VOY,S01E08,1,Emanations,659,6.7,2.3,6.3
+VOY,S01E09,1,Prime Factors,671,8.0,1.9,7.7
+VOY,S01E10,1,State of Flux,697,8.5,2.2,7.8
+VOY,S01E11,1,Heroes and Demons,698,7.0,2.2,6.6
+VOY,S01E12,1,Cathexis,650,6.0,2.3,5.7
+VOY,S01E13,1,Faces,678,7.5,2.4,7.1
+VOY,S01E14,1,Jetrel,654,6.5,2.3,6.5
+VOY,S01E15,1,Learning Curve,677,7.0,2.0,6.5
+VOY,S02E01,2,The 37's,814,6.2,2.4,5.9
+VOY,S02E02,2,Initiations,706,7.0,1.8,6.5
+VOY,S02E03,2,Projections,752,8.5,2.3,7.8
+VOY,S02E04,2,Elogium,765,4.0,2.8,4.1
+VOY,S02E05,2,Non Sequitur,729,6.5,2.5,5.9
+VOY,S02E06,2,Twisted,748,5.0,2.9,5.1
+VOY,S02E07,2,Parturition,722,5.0,2.7,4.7
+VOY,S02E08,2,Persistence of Vision,683,6.0,2.6,5.6
+VOY,S02E09,2,Tattoo,726,6.0,2.4,5.5
+VOY,S02E10,2,Cold Fire,698,6.0,2.4,5.9
+VOY,S02E11,2,Maneuvers,693,7.5,2.3,6.9
+VOY,S02E12,2,Resistance,714,8.0,2.3,7.7
+VOY,S02E13,2,Prototype,693,7.1,1.9,7.2
+VOY,S02E14,2,Alliances,688,7.0,2.4,6.6
+VOY,S02E15,2,Threshold,753,2.8,3.1,3.2
+VOY,S02E16,2,Meld,705,8.0,1.9,7.6
+VOY,S02E17,2,Dreadnought,774,8.0,1.7,7.8
+VOY,S02E18,2,Death Wish,793,9.0,1.9,8.3
+VOY,S02E19,2,Lifesigns,693,8.0,1.9,7.8
+VOY,S02E20,2,Investigations,657,6.0,3.0,5.6
+VOY,S02E21,2,Deadlock,708,9.0,2.0,8.4
+VOY,S02E22,2,Innocence,638,6.0,2.6,5.1
+VOY,S02E23,2,The Thaw,671,8.0,2.8,7.1
+VOY,S02E24,2,Tuvix,711,7.5,2.6,6.9
+VOY,S02E25,2,Resolutions,653,7.0,2.5,6.3
+VOY,S02E26,2,Basics (I),694,7.5,2.2,7.3
+VOY,S03E01,3,Basics (II),721,7.3,2.1,7.0
+VOY,S03E02,3,Flashback,740,7.5,2.2,6.9
+VOY,S03E03,3,The Chute,710,8.0,2.1,7.9
+VOY,S03E04,3,The Swarm,689,7.2,1.7,7.1
+VOY,S03E05,3,False Profits,690,6.0,2.7,5.4
+VOY,S03E06,3,Remember,680,7.7,2.2,7.0
+VOY,S03E07,3,Sacred Ground,651,7.0,2.7,6.5
+VOY,S03E08,3,Future's End (I),754,9.0,2.0,8.2
+VOY,S03E09,3,Future's End (II),721,8.2,2.1,7.8
+VOY,S03E10,3,Warlord,658,7.3,2.4,7.0
+VOY,S03E11,3,The Q and the Grey,693,7.0,2.8,6.2
+VOY,S03E12,3,Macrocosm,648,7.0,2.5,6.6
+VOY,S03E13,3,Fair Trade,598,7.0,2.2,6.6
+VOY,S03E14,3,Alter Ego,568,7.5,2.2,7.1
+VOY,S03E15,3,Coda,604,7.0,2.9,6.2
+VOY,S03E16,3,Blood Fever,648,7.5,2.5,6.9
+VOY,S03E17,3,Unity,662,9.0,1.8,8.4
+VOY,S03E18,3,The Darkling,603,6.0,3.2,5.0
+VOY,S03E19,3,Rise,579,4.5,2.9,4.4
+VOY,S03E20,3,Favorite Son,593,3.0,2.9,3.4
+VOY,S03E21,3,Before and After,621,9.0,1.9,8.4
+VOY,S03E22,3,Real Life,575,7.5,2.3,7.0
+VOY,S03E23,3,Distant Origin,627,9.0,2.0,8.4
+VOY,S03E24,3,Displaced,583,7.0,2.1,6.9
+VOY,S03E25,3,Worst Case Scenario,609,8.4,1.7,8.1
+VOY,S03E26,3,Scorpion (I),646,9.5,1.5,9.1
+VOY,S04E01,4,Scorpion (II),647,9.0,2.0,8.4
+VOY,S04E02,4,The Gift,646,8.5,2.0,8.1
+VOY,S04E03,4,Day of Honor,625,8.0,2.2,7.3
+VOY,S04E04,4,Nemesis,586,7.4,2.3,7.1
+VOY,S04E05,4,Revulsion,590,7.5,2.2,7.1
+VOY,S04E06,4,The Raven,589,7.5,2.3,7.1
+VOY,S04E07,4,Scientific Method,588,7.5,2.6,7.0
+VOY,S04E08,4,Year of Hell (I),629,9.2,1.8,8.8
+VOY,S04E09,4,Year of Hell (II),608,8.5,2.0,8.2
+VOY,S04E10,4,Random Thoughts,327,6.0,2.6,5.6
+VOY,S04E11,4,Concerning Flight,319,6.0,2.2,5.8
+VOY,S04E12,4,Mortal Coil,305,7.5,2.1,7.2
+VOY,S04E13,4,Waking Moments,278,6.0,2.9,5.3
+VOY,S04E14,4,Message in a Bottle,352,9.2,1.3,9.0
+VOY,S04E15,4,Hunters,326,8.0,1.5,7.9
+VOY,S04E16,4,Prey,323,9.0,1.5,8.7
+VOY,S04E17,4,Retrospect,287,7.0,2.1,6.4
+VOY,S04E18,4,The Killing Game (I),313,8.2,2.7,7.6
+VOY,S04E19,4,The Killing Game (II),281,7.0,2.6,6.3
+VOY,S04E20,4,Vis A Vis,294,4.0,2.9,4.3
+VOY,S04E21,4,The Omega Directive,324,7.0,2.7,6.5
+VOY,S04E22,4,Unforgettable,306,5.0,2.8,4.6
+VOY,S04E23,4,Living Witness,330,9.5,1.5,9.0
+VOY,S04E24,4,Demon,300,3.0,3.1,4.0
+VOY,S04E25,4,One,296,7.5,2.4,6.9
+VOY,S04E26,4,Hope and Fear,315,8.7,1.8,8.2
+VOY,S05E01,5,Night,491,7.0,2.0,6.8
+VOY,S05E02,5,Drone,498,9.2,1.6,8.8
+VOY,S05E03,5,Extreme Risk,479,7.0,1.9,6.6
+VOY,S05E04,5,In the Flesh,484,8.1,1.9,8.1
+VOY,S05E05,5,Once Upon a Time,471,5.5,2.8,5.1
+VOY,S05E06,5,Timeless,517,10.0,1.3,9.2
+VOY,S05E07,5,Infinite Regress,446,7.0,2.1,6.9
+VOY,S05E08,5,Nothing Human,442,6.0,2.1,6.2
+VOY,S05E09,5,Thirty Days,453,7.8,2.8,7.1
+VOY,S05E10,5,Counterpoint,449,9.0,1.7,8.7
+VOY,S05E11,5,Latent Image,438,9.0,1.8,8.5
+VOY,S05E12,5,Bride of Chaotica!,429,7.0,2.5,6.6
+VOY,S05E13,5,Gravity,413,7.2,2.6,6.9
+VOY,S05E14,5,Bliss,409,7.5,2.2,6.9
+VOY,S05E15,5,Dark Frontier,446,9.0,1.9,8.4
+VOY,S05E16,5,Disease,401,3.0,2.9,3.6
+VOY,S05E17,5,Course: Oblivion,417,6.5,3.2,5.5
+VOY,S05E18,5,The Fight,362,2.0,2.8,2.9
+VOY,S05E19,5,Think Tank,384,7.5,2.1,6.9
+VOY,S05E20,5,Juggernaut,335,5.0,2.8,4.8
+VOY,S05E21,5,Someone to Watch over Me,375,9.0,1.8,8.6
+VOY,S05E22,5,11:59,365,8.0,2.4,7.4
+VOY,S05E23,5,Relativity,361,8.6,1.6,8.3
+VOY,S05E24,5,Warhead,354,6.0,2.9,5.2
+VOY,S05E25,5,Equinox (I),380,8.0,1.7,8.1
+VOY,S06E01,6,Equinox (II),337,8.0,1.9,7.6
+VOY,S06E02,6,Survival Instinct,313,8.5,1.8,8.3
+VOY,S06E03,6,Barge of the Dead,325,8.9,2.1,8.1
+VOY,S06E04,6,"Tinker, Tenor, Doctor, Spy",328,9.0,1.8,8.5
+VOY,S06E05,6,Alice,308,5.0,2.3,5.5
+VOY,S06E06,6,Riddles,294,6.0,2.7,5.8
+VOY,S06E07,6,Dragon's Teeth,306,7.0,1.8,6.8
+VOY,S06E08,6,One Small Step,301,8.8,1.8,8.2
+VOY,S06E09,6,The Voyager Conspiracy,302,7.0,2.8,6.3
+VOY,S06E10,6,Pathfinder,302,8.8,1.9,8.2
+VOY,S06E11,6,Fair Haven,293,6.5,2.7,5.8
+VOY,S06E12,6,Blink of an Eye,292,8.3,1.8,8.2
+VOY,S06E13,6,Virtuoso,287,6.0,2.6,5.5
+VOY,S06E14,6,Memorial,291,9.0,2.0,8.0
+VOY,S06E15,6,Tsunkatse,290,7.0,2.6,6.2
+VOY,S06E16,6,Collective,274,7.0,2.4,6.5
+VOY,S06E17,6,Spirit Folk,274,2.0,2.9,3.3
+VOY,S06E18,6,Ashes to Ashes,264,6.0,2.3,5.9
+VOY,S06E19,6,Child's Play,258,9.0,2.1,8.1
+VOY,S06E20,6,Good Shepherd,257,8.0,2.0,7.5
+VOY,S06E21,6,Live Fast and Prosper,240,7.0,1.9,7.0
+VOY,S06E22,6,Muse,244,9.0,2.2,8.2
+VOY,S06E23,6,Fury,247,7.0,2.8,5.9
+VOY,S06E24,6,Life Line,238,8.9,1.7,8.3
+VOY,S06E25,6,The Haunting of Deck Twelve,235,6.0,2.4,6.1
+VOY,S06E26,6,Unimatrix Zero (I),242,8.5,2.0,8.1
+VOY,S07E01,7,Unimatrix Zero (II),219,8.0,2.1,7.7
+VOY,S07E02,7,Imperfection,214,8.0,1.7,8.0
+VOY,S07E03,7,Drive,212,7.0,1.9,6.8
+VOY,S07E04,7,Repression,205,6.0,2.3,5.4
+VOY,S07E05,7,Critical Care,206,8.0,1.8,7.9
+VOY,S07E06,7,Inside Man,199,7.0,1.9,6.7
+VOY,S07E07,7,Body and Soul,199,7.5,1.6,7.5
+VOY,S07E08,7,Nightingale,192,7.0,1.9,6.3
+VOY,S07E09,7,Flesh and Blood (I),193,8.0,1.8,7.8
+VOY,S07E10,7,Flesh and Blood (II),193,8.0,2.2,7.6
+VOY,S07E11,7,Shattered,198,8.0,2.0,7.6
+VOY,S07E12,7,Lineage,182,9.0,2.4,8.1
+VOY,S07E13,7,Repentance,182,7.0,2.0,6.6
+VOY,S07E14,7,Prophecy,185,7.0,2.0,6.9
+VOY,S07E15,7,The Void,191,8.5,1.9,8.1
+VOY,S07E16,7,Workforce (I),189,8.5,1.8,8.1
+VOY,S07E17,7,Workforce (II),184,8.0,1.9,7.8
+VOY,S07E18,7,Human Error,170,7.8,2.4,7.0
+VOY,S07E19,7,Q2,180,7.0,2.4,6.5
+VOY,S07E20,7,"Author, Author",169,8.5,1.7,8.1
+VOY,S07E21,7,Friendship One,157,7.0,1.8,6.9
+VOY,S07E22,7,Natural Law,147,7.0,2.4,6.1
+VOY,S07E23,7,Homestead,154,8.0,1.9,7.5
+VOY,S07E24,7,Renaissance Man,152,8.0,1.8,7.7
+VOY,S07E25,7,Endgame,185,8.5,2.6,7.7
+ENT,S01E01,1,Broken Bow,260,8.1,1.6,8.0
+ENT,S01E02,1,Fight or Flight,219,7.0,1.4,7.2
+ENT,S01E03,1,Strange New World,208,7.0,1.9,6.7
+ENT,S01E04,1,Unexpected,206,6.5,2.1,6.2
+ENT,S01E05,1,Terra Nova,198,6.0,2.0,5.8
+ENT,S01E06,1,The Andorian Incident,207,8.3,1.4,8.2
+ENT,S01E07,1,Breaking the Ice,195,7.1,1.7,7.2
+ENT,S01E08,1,Civilization,176,7.0,1.7,7.0
+ENT,S01E09,1,Fortunate Son,178,7.0,1.7,6.6
+ENT,S01E10,1,Cold Front,181,8.3,1.5,8.2
+ENT,S01E11,1,Silent Enemy,168,7.5,1.7,7.5
+ENT,S01E12,1,Dear Doctor,191,9.0,1.5,8.7
+ENT,S01E13,1,Sleeping Dogs,167,7.0,1.8,6.8
+ENT,S01E14,1,Shadows of P'Jem,166,7.2,1.7,7.3
+ENT,S01E15,1,Shuttlepod One,173,8.0,2.0,7.8
+ENT,S01E16,1,Fusion,157,6.7,2.0,6.5
+ENT,S01E17,1,Rogue Planet,149,5.5,2.1,5.3
+ENT,S01E18,1,Acquisition,157,6.5,2.6,6.0
+ENT,S01E19,1,Oasis,142,6.7,1.9,6.3
+ENT,S01E20,1,Detained,144,7.4,1.7,7.2
+ENT,S01E21,1,Vox Sola,141,7.0,2.1,6.6
+ENT,S01E22,1,Fallen Hero,147,8.2,1.4,8.2
+ENT,S01E23,1,Desert Crossing,140,7.0,1.8,6.5
+ENT,S01E24,1,Two Days and Two Nights,149,7.0,2.0,6.7
+ENT,S01E25,1,Shockwave (I),156,9.0,1.4,8.7
+ENT,S02E01,2,Shockwave (II),158,7.5,1.6,7.5
+ENT,S02E02,2,Carbon Creek,163,7.0,2.2,6.8
+ENT,S02E03,2,Minefield,163,8.0,1.7,7.7
+ENT,S02E04,2,Dead Stop,162,8.5,1.2,8.3
+ENT,S02E05,2,A Night in Sickbay,148,5.2,2.7,5.2
+ENT,S02E06,2,Marauders,138,6.0,2.0,5.8
+ENT,S02E07,2,The Seventh,131,7.0,1.6,6.9
+ENT,S02E08,2,The Communicator,129,7.0,1.8,6.7
+ENT,S02E09,2,Singularity,117,7.0,1.9,6.8
+ENT,S02E10,2,Vanishing Point,124,6.5,2.0,6.3
+ENT,S02E11,2,Precious Cargo,134,4.8,2.6,4.5
+ENT,S02E12,2,The Catwalk,121,7.5,1.4,7.5
+ENT,S02E13,2,Dawn,111,6.7,1.8,6.6
+ENT,S02E14,2,Stigma,114,7.5,1.9,7.2
+ENT,S02E15,2,Cease Fire,118,8.0,1.4,8.1
+ENT,S02E16,2,Future Tense,119,8.5,1.3,8.4
+ENT,S02E17,2,Canamar,106,7.0,1.9,6.6
+ENT,S02E18,2,The Crossing,102,6.3,1.7,6.2
+ENT,S02E19,2,Judgment,107,8.0,1.6,8.0
+ENT,S02E20,2,Horizon,102,7.0,1.8,6.7
+ENT,S02E21,2,The Breach,101,7.5,1.7,7.1
+ENT,S02E22,2,Cogenitor,113,8.8,1.6,8.3
+ENT,S02E23,2,Regeneration,112,8.5,1.7,8.3
+ENT,S02E24,2,First Flight,104,8.1,1.4,8.2
+ENT,S02E25,2,Bounty,97,6.0,2.3,5.7
+ENT,S02E26,2,The Expanse,109,8.5,1.5,8.4
+ENT,S03E01,3,The Xindi,106,7.5,1.3,7.5
+ENT,S03E02,3,Anomaly,103,8.3,1.6,8.1
+ENT,S03E03,3,Extinction,99,5.0,2.3,5.2
+ENT,S03E04,3,Rajiin,96,7.0,1.7,7.0
+ENT,S03E05,3,Impulse,97,7.5,1.5,7.5
+ENT,S03E06,3,Exile,94,7.0,1.5,6.9
+ENT,S03E07,3,The Shipment,96,8.0,1.2,7.8
+ENT,S03E08,3,Twilight,118,9.4,1.1,9.1
+ENT,S03E09,3,North Star,95,7.0,2.1,6.6
+ENT,S03E10,3,Similitude,105,8.5,2.0,8.1
+ENT,S03E11,3,Carpenter Street,94,7.0,1.8,6.7
+ENT,S03E12,3,Chosen Realm,86,6.4,2.0,6.3
+ENT,S03E13,3,Proving Ground,89,8.7,0.9,8.6
+ENT,S03E14,3,Stratagem,87,8.5,1.2,8.5
+ENT,S03E15,3,Harbinger,84,7.0,1.9,7.0
+ENT,S03E16,3,Doctor's Orders,85,7.0,1.6,7.1
+ENT,S03E17,3,Hatchery,83,6.8,1.9,6.6
+ENT,S03E18,3,Azati Prime,93,9.0,1.0,9.1
+ENT,S03E19,3,Damage,84,8.7,1.2,8.6
+ENT,S03E20,3,The Forgotten,80,8.0,1.3,8.2
+ENT,S03E21,3,E²,83,8.0,1.6,7.7
+ENT,S03E22,3,The Council,82,8.9,1.0,8.7
+ENT,S03E23,3,Countdown,81,9.0,1.1,8.7
+ENT,S03E24,3,Zero Hour,78,8.5,1.3,8.3
+ENT,S04E01,4,Storm Front (I),78,7.5,1.7,7.1
+ENT,S04E02,4,Storm Front (II),76,7.0,1.8,6.9
+ENT,S04E03,4,Home,79,8.0,1.4,7.9
+ENT,S04E04,4,Borderland,79,8.5,1.4,8.3
+ENT,S04E05,4,Cold Station 12,80,8.3,1.2,8.3
+ENT,S04E06,4,The Augments,79,8.0,1.4,8.0
+ENT,S04E07,4,The Forge,84,9.0,0.8,9.1
+ENT,S04E08,4,Awakening,76,9.0,1.1,8.6
+ENT,S04E09,4,Kir'Shara,77,9.0,1.0,8.9
+ENT,S04E10,4,Daedalus,66,6.7,1.8,6.2
+ENT,S04E11,4,Observer Effect,67,8.0,1.4,7.8
+ENT,S04E12,4,Babel One,72,9.0,1.0,8.8
+ENT,S04E13,4,United,69,9.0,1.2,8.7
+ENT,S04E14,4,The Aenar,67,8.0,1.3,8.1
+ENT,S04E15,4,Affliction,62,9.0,1.1,8.7
+ENT,S04E16,4,Divergence,61,8.0,1.3,8.2
+ENT,S04E17,4,Bound,61,6.0,2.5,5.3
+ENT,S04E18,4,"In a Mirror, Darkly (I)",73,9.0,1.6,8.8
+ENT,S04E19,4,"In a Mirror, Darkly (II)",66,8.3,2.0,8.1
+ENT,S04E20,4,Demons,57,8.0,1.7,7.8
+ENT,S04E21,4,Terra Prime,62,8.0,1.6,7.9
+ENT,S04E22,4,These Are the Voyages...,63,6.0,2.4,5.9
